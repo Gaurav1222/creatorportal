@@ -1,0 +1,132 @@
+body
+{
+	background-color: #fafafa;
+}
+h2, span
+{
+	color: #0f0f0f;
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	margin-top: 40px;
+	padding: 10px;
+}
+#timeline1
+{
+	margin-top: 10px;
+	margin-left: 180px;
+}
+form
+{
+	background: white;
+	margin-top: -450px;
+	margin-right: 180px;
+	padding: 40px;
+	float: right;
+}
+
+.data
+{
+	margin-top: 10px;
+	color: #636363;
+	font-size: 20px;
+	font-style: normal;
+	font-family: "times new roman";
+}
+
+.data1
+{
+	margin-top: 50px;
+	color: #636363;
+	font-size: 20px;
+	font-style: normal;
+	font-family: "times new roman";
+}
+
+#fname
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+#lname
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	padding: 10px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+#email
+{
+	margin-top: 10px;
+	margin-bottom: -20px;
+	padding: 10px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+	border:1px solid red;
+}
+
+#address
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+#state
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+#city
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+#refe
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	height: 20px;
+	width: 180px;
+	border-radius: 10px;
+}
+
+h6
+{
+	margin-bottom: 10px;
+	color: red;
+	font-size: 12px;
+}
+a
+{
+	padding: 12px;
+	background-color: #68228b;
+	color: white;
+	height: 50px;
+	width: 100px;
+	border-radius: 7px;
+}

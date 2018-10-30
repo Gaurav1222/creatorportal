@@ -1,0 +1,117 @@
+body
+{
+	background-color: #fafafa;
+}
+.mainhead
+{
+	color: #0f0f0f;
+	font-size: 20px;
+	text-align: center;
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	margin-top: 40px;
+	padding: 10px;
+}
+#timeline2
+{
+	margin-top: 10px;
+	margin-left: 180px;
+}
+span
+{
+	color: #9a32cd;
+	font-size: 15px;
+}
+
+#textsection
+{
+	float: right;
+	background-color: #f7f7f7;
+	margin-top: -30em;
+	margin-right: 10em;
+	padding: 2em;
+}
+h2
+{
+	text-align: left;
+	font-size: 20px;
+	font-family: sans-serif;
+	font-style: normal;
+}
+p
+{
+	margin: 0;
+	padding: 0;
+}
+.inputs
+{
+	margin-top: 80px;
+	margin-bottom: 50px;
+}
+
+a
+{
+	padding: 12px;
+	background-color: #68228b;
+	color: white;
+	height: 50px;
+	width: 100px;
+	border-radius: 7px;
+}
+
+#check
+{
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+.texty
+{
+	height: 30px;
+	width: 200px;
+	border-radius: 8px;
+}
+
+.texti
+{
+	margin-left: 20px;
+	height: 30px;
+	width: 200px;
+	border-radius: 8px;
+}
+
+.textf
+{
+	height: 30px;
+	width: 200px;
+	border-radius: 8px;
+}
+
+.textt
+{
+	margin-left: 20px;
+	height: 30px;
+	width: 200px;
+	border-radius: 8px;
+}
+
+
+.texty:hover, 
+.texti:hover,
+.textf:hover,
+.textt:hover
+{
+	background-color: #68228b;
+}
+
+
+
+
+
+
+
+
+
+
+
